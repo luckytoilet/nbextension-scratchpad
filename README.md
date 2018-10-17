@@ -1,6 +1,6 @@
 # Scratchpad notebook extension
 
-Test
+Test Test
 
 Adds a scratchpad cell to Jupyter notebook.
 This is a cell in which you can execute code against the current kernel without modifying the notebook document.
